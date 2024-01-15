@@ -8,6 +8,7 @@ _Aquest repositori correspon a la pràctica de l'assignatura **M2.959 Visualitza
 Assignatura: M2.959 / Semestre: 2023-24/1 / Data: 01/12/2023
 
 URL dels conjunts de dades triats: https://opendata-ajuntament.barcelona.cat/data/ca/dataset/accidents-persones-gu-bcn
+URL de la pàgina resultant: https://ibenaiges.github.io/index.html
 
 ## Autor
   * Ivan Benaiges Trenchs - [ibenaiges@uoc.edu](ibenaiges@uoc.edu)
